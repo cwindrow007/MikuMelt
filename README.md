@@ -8,7 +8,7 @@ extraction easy for users.
 > モッディングに興味がある方や、ミクのコンテンツを研究したい方のために、**Miku Melt** は抽出作業を簡単にします。
 
 ![modelmiku](https://github.com/user-attachments/assets/cba432af-94ad-458d-b621-4b50da25e560)
-Example online model exported to blender.
+`Hatsune Miku online model exported to blender` 
 
 ---
 ## Features
