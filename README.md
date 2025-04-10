@@ -1,4 +1,6 @@
-# Miku Melt `[INFDEV]` | (**初音ミク プロジェクトDIVA 抽出ツール**)
+# Miku Melt | (**初音ミク プロジェクトDIVA 抽出ツール**)
+![Status](https://img.shields.io/badge/status-InfDev-orange)
+
 ---
 **Miku Melt** is a custom C++ tool designed to extract and convert asset file from **Hatsune Miku: Project DIVA** games into formats readable by tools like **Blender**. It will support parsing and converting `.gmo`, `.farc`, and other proprietary file types.
 
